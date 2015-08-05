@@ -1,0 +1,2 @@
+def prjina():
+    print 'prajina'
